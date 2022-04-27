@@ -1,2 +1,2 @@
-def second_main_func() -> None:
+def third_main_func() -> None:
     pass
